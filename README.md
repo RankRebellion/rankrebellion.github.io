@@ -1,2 +1,7 @@
 Website Under Construction <br>
-sorry.
+
+For now you can find me here: <br>
+[GitHub](https://github.com/RankRebellion) <br>
+[Itch.io](https://rankrebellion.itch.io/) <br>
+[Youtube](https://www.youtube.com/@rankrebellion) <br>
+[BlueSky](https://bsky.app/profile/rankrebellion.github.io) <br>
