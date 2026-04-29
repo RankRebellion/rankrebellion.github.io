@@ -1,0 +1,168 @@
+								
+                                <article class="style3">
+									<span class="image">
+										<img src="images/hiding.jpg" alt="" />
+									</span>
+									<a href="Hiding.html">
+										<h2>hiding.</h2>
+										<div class="content">
+											<p>An experimental narrative experience</p>
+										</div>
+									</a>
+								</article>
+
+								<article class="style2">
+									<span class="image">
+										<img src="images/Animations.jpg" alt="" />
+									</span>
+									<a href="Animations.html">
+										<h2>Animations</h2>
+										<div class="content">
+											<p>3D animations done for personal projects and coursework</p>
+										</div>
+									</a>
+								</article>
+
+								<article class="style2">
+									<span class="image">
+										<img src="images/ClimbingBabylon.jpg" alt="" />
+									</span>
+									<a href="ClimbingBabylon.html">
+										<h2>Climbing Babylon</h2>
+										<div class="content">
+											<p>A design document describing a 2D climbing exploration game</p>
+										</div>
+									</a>
+								</article>
+
+								<article class="style2">
+									<span class="image">
+										<img src="images/TopDownShooterRougelike.jpg" alt="" />
+									</span>
+									<a href="TopDownShooterRougelike.html">
+										<h2>Top Down Shooter Rougelike</h2>
+										<div class="content">
+											<p>A Rougelike top down shooter with procedurally generated levels and a variety of weapons and enemies</p>
+										</div>
+									</a>
+								</article>
+
+								<article class="style2">
+									<span class="image">
+										<img src="images/ArcadeSet.jpg" alt="" />
+									</span>
+									<a href="ArcadeSet.html">
+										<h2>Arcade Set</h2>
+										<div class="content">
+											<p>3D models I have modelled and textured</p>
+										</div>
+									</a>
+								</article>
+
+								<article class="style2">
+									<span class="image">
+										<img src="images/PlatformerLevel.jpg" alt="" />
+									</span>
+									<a href="PlatformerLevel.html">
+										<h2>Platformer Level</h2>
+										<div class="content">
+											<p>A platforming level with small puzzles and hazards the player navigates increasing in difficulty throughout</p>
+										</div>
+									</a>
+								</article>
+
+								<article class="style2">
+									<span class="image">
+										<img src="images/CanaBlockofJellyEscapeaRoom.jpg" alt="" />
+									</span>
+									<a href="CanaBlockofJellyEscapeaRoom.html">
+										<h2>Can a Block of Jelly Escape a Room?</h2>
+										<div class="content">
+											<p>A small puzzle game created for Freshers Jam 2023</p>
+										</div>
+									</a>
+								</article>
+
+								<article class="style3">
+									<span class="image">
+										<img src="images/WallsofStoneConcreteJungle.jpg" alt="" />
+									</span>
+									<a href="WallsofStoneConcreteJungle.html">
+										<h2>Walls of Stone:Concrete Jungle</h2>
+										<div class="content">
+											<p>A click and point puzzle game made for the GMTK Game Jam 2023</p>
+										</div>
+									</a>
+								</article>
+
+								<article class="style1">
+									<span class="image">
+										<img src="images/OneAgainstAll.jpg" alt="" />
+									</span>
+									<a href="OneAgainstAll.html">
+										<h2>One Against All</h2>
+										<div class="content">
+											<p>A fast paced first person shooter with a full hour long campaign and horde mode</p>
+										</div>
+									</a>
+								</article>
+
+								<article class="style3">
+									<span class="image">
+										<img src="images/OneMoveataTime.jpg" alt="" />
+									</span>
+									<a href="OneMoveataTime.html">
+										<h2>One Move at a Time</h2>
+										<div class="content">
+											<p>A maze game with a custom level framework made for the One Button CoMmunity Jam</p>
+										</div>
+									</a>
+								</article>
+
+                                <article class="style2">
+									<span class="image">
+										<img src="images/HorrorCinematic.jpg" alt="" />
+									</span>
+									<a href="HorrorCinematic.html">
+										<h2>Horror Cinematic</h2>
+										<div class="content">
+											<p>A cutscene of a character finding a gun for a potential game</p>
+										</div>
+									</a>
+								</article>
+
+								<article class="style2">
+									<span class="image">
+										<img src="images/CastleEscapeRoom.jpg" alt="" />
+									</span>
+									<a href="CastleEscapeRoom.html">
+										<h2>Castle Escape Room</h2>
+										<div class="content">
+											<p>A VR escape room experience with advanced physics interactions</p>
+										</div>
+									</a>
+								</article>
+
+								<article class="style2">
+									<span class="image">
+										<img src="images/ThirdPersonAction.jpg" alt="" />
+									</span>
+									<a href="ThirdPersonAction.html">
+										<h2>Third Person Action</h2>
+										<div class="content">
+											<p>An action game framework built in Unreal Engine 5</p>
+										</div>
+									</a>
+								</article>
+
+								<article class="style3">
+									<span class="image">
+										<img src="images/3DRenders.jpg" alt="" />
+									</span>
+									<a href="3DRenders.html">
+										<h2>3D Renders</h2>
+										<div class="content">
+											<p>Personal projects building skills in environment design, framing, and lighting</p>
+										</div>
+									</a>
+								</article>

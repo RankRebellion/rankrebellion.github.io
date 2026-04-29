@@ -1,0 +1,30 @@
+// University
+Tank Game (Experimental)
+Horror Cutscene (Cinematics)
+Castle Escape Room (VR Design)
+Third Person Action (Systems Design)
+Animations (Intro to Animation)
+Climbing Babylon (Pre-Production)
+Top-Down Shooter Rougelike (Mechanics)
+Arcade Set (Intro to 3D)
+Platformer Level (Intro to Design)
+
+//Game Jams
+Miniature Painting Museum (GMTK 2024)
+Can a Block of Jelly Escape a Room? (Freshers Jam 2023)
+Walls of Stone: Concrete Jungle (GMTK 2023)
+
+// Personal
+hiding.
+Tomb Defense
+Sisyphus
+
+// Dreams
+Glockenspiel VR
+One Against All
+Piano VR
+
+//Renders
+Electric Dreams
+TV Glow
+MMXXIV
